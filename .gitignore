@@ -1,0 +1,13 @@
+# gebautes Spiel (mit build.py neu erzeugbar)
+dist/
+*.html
+# Zwischenstände der Bildpipeline
+assets/frames_l1/
+assets/raw_l1/
+assets/*_rgba.png
+*.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
